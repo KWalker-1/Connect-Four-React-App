@@ -4,9 +4,9 @@ This Connect Four is an engaging web-based implementation of the popular Connect
 
 ## Installation and Setup
 Create react app called connectfour then modify connectfour folder just created:
-a. copy/paste the components folder provided into the src folder
-b. replace index.js file with file provded into src folder
-c. replace index.html file with file provded into public folder
+1. copy/paste the components folder provided into the src folder
+2. replace index.js file with file provded into src folder
+3. replace index.html file with file provded into public folder
 
 
 ### How to install React
