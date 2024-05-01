@@ -1,11 +1,15 @@
 # Connect-Four-React-App
 This Connect Four is an engaging web-based implementation of the popular Connect Four game, built using the React JavaScript library.
 
+
+## Installation and Setup
 Create react app called connectfour then modify connectfour folder just created:
 a. copy/paste the components folder provided into the src folder
 b. replace index.js file with file provded into src folder
 c. replace index.html file with file provded into public folder
 
+
+### How to install React
 If new to React, refer to directions below (1-8):
 1. Download and install Node.js if not already downloaded
 a. https://nodejs.org/en/download/
@@ -27,3 +31,8 @@ a. npm install
 a. npm start
 b. The web browser should display
 
+
+## How to Play
+- Use your mouse to drop colored discs into the grid.
+- The objective is to connect four of your colored discs in a row, either vertically, horizontally, or diagonally.
+- The first player to connect four discs wins the game.
