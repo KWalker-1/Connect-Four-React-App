@@ -2,7 +2,6 @@
 This Connect Four is an engaging web-based implementation of the popular Connect Four game, built using the React JavaScript library.
 
 Create react app called connectfour then modify connectfour folder just created:
-
 a. copy/paste the components folder provided into the src folder
 b. replace index.js file with file provded into src folder
 c. replace index.html file with file provded into public folder
